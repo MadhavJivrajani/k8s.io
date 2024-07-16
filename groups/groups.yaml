@@ -17,96 +17,96 @@ groups:
     owners:
       - contributors@kubernetes.io
     managers:
-      - killen.bob@gmail.com
+      - kaslin.fields@gmail.com # SIG ContribEx. GitHub: @kaslin
+      - madhav.jiv@gmail.com # SIG ContribEx. GitHub: @MadhavJivrajani
+      - pal.nabarun95@gmail.com # SIG ContribEx, Steering. GitHub: @palnabarun
+      - priyankasaggu11929@gmail.com # SIG ContribEx. GitHub: @Priyankasaggu11929
     members:
-      - AnaMMedina21@gmail.com # CoCC
-      - acondor@google.com
-      - adolfo.garcia@uservers.net # SIG Release
-      - ahg@google.com
-      - amerai@google.com
-      - ameukam@gmail.com
-      - amim.knabben@gmail.com # SIG Windows
-      - antonio.ojea.garcia@gmail.com
-      - aravindh.foss@pm.me # SIG Windows
-      - aguclu@redhat.com # SIG CLI
-      - augustus@cisco.com # SIG Release
-      - benjamin.ahrtr@gmail.com # SIG etcd
-      - bentheelder@google.com
-      - bpratt@redhat.com # SIG Testing
-      - bridget@kromhout.org # SIG Cloud Provider
-      - caniszczyk@linuxfoundation.org
-      - cbelu@cloudbasesolutions.com
-      - cblecker@gmail.com # K8s GB representative
-      - chiachenk@google.com
+      - AnaMMedina21@gmail.com # CoCC. GitHub: @AnaMMedina21
+      - acondor@google.com # SIG Scheduling, WG Batch. GitHub: @alculquicondor
+      - adolfo.garcia@uservers.net # SIG Release. GitHub: @puerco
+      - ahg@google.com # SIG Scheduling. GitHub: @ahg-g
+      - amerai@google.com # SIG Testing. GitHub: @michelle192837
+      - ameukam@gmail.com # SIG K8s Infra. GitHub: @ameukam
+      - amim.knabben@gmail.com # SIG Windows. GitHub: @knabben
+      - antonio.ojea.garcia@gmail.com # SIG Network, Testing. GitHub: @aojea
+      - aravindh.foss@pm.me # SIG Windows. GitHub: @aravindhp
+      - aguclu@redhat.com # SIG CLI. GitHub: @ardaguclu
+      - augustus@cisco.com # SIG Release, Steering. GitHub: @justaugustus
+      - benjamin.ahrtr@gmail.com # SIG etcd. GitHub: @ahrtr
+      - bentheelder@google.com # SIG Testing, SIG K8s Infra, Steering. GitHub: @BenTheElder
+      - bpratt@redhat.com # SIG Testing. GitHub: @jbpratt
+      - bridget@kromhout.org # SIG Cloud Provider. GitHub: @bridgetkromhout
+      - caniszczyk@linuxfoundation.org # CNCF
+      - cbelu@cloudbasesolutions.com # SIG Windows. GitHub: @claudiubelu
+      - cblecker@gmail.com # K8s GB representative. GitHub: @cblecker
+      - chiachenk@google.com # SIG Apps. GitHub: @janetkuo
       - community@kubernetes.io
-      - ctadeu@gmail.com # SIG Release
-      - cy@borg.dev # SIG K8s Infra
-      - danwinship@redhat.com # SIG Network
-      - davanum@gmail.com
-      - dawnchen@google.com
-      - deads@redhat.com
-      - decarr@redhat.com
-      - dgrisonn@redhat.com
-      - divya.mohan0209@gmail.com
-      - eddiezane@gmail.com # CLI
-      - fabrizio.pandini@gmail.com
-      - fbongiovanni@google.com
-      - guyjtempleton@googlemail.com
-      - gveronicalg@gmail.com # SIG Release
-      - hankang@google.com
-      - hilliary.lipsig@gmail.com # CoCC
-      - hweicdl@gmail.com
-      - ian@coldwater.io
-      - jablair@redhat.com # SIG etcd
-      - jbelamaric@google.com
-      - jeremy.r.rickard@gmail.com # SIG Release
-      - jeremyot@google.com
-      - jim@nirmata.com
-      - jpbetz@google.com
-      - jsafrane@redhat.com
-      - jsturtevant@gmail.com
-      - justin@fathomdb.com
-      - k8s@auggie.dev # SIG Release
-      - kaslin.fields@gmail.com
-      - kat.cosgrove@gmail.com
-      - lancashiredanielle@gmail.com
-      - liggitt@google.com
-      - madhav.jiv@gmail.com
-      - marosset@microsoft.com
-      - maszulik@redhat.com # SIG CLI, Apps
-      - mcqueenorama@gmail.com
-      - mikedanese@google.com
-      - mpuckett259@gmail.com # SIG CLI
-      - msau@google.com
-      - msm@opbstudios.com # SIG Cloud Provider
-      - mwielgus@google.com
-      - natalivlatko@gmail.com
-      - neolit123@gmail.com
-      - paco.xu@daocloud.io
-      - pal.nabarun95@gmail.com
-      - patrick.ohly@intel.com
-      - priyankasaggu11929@gmail.com
+      - ctadeu@gmail.com # SIG Release. GitHub: @cpanato
+      - cy@borg.dev # SIG K8s Infra. GitHub: @upodroid
+      - danwinship@redhat.com # SIG Network. GitHub: @danwinship
+      - davanum@gmail.com # SIG Architecture, SIG K8s Infra. GitHub: @dims
+      - dawnchen@google.com # SIG Node. GitHub: @dchen1107
+      - deads@redhat.com # SIG API Machinery, SIG Auth. GitHub: @deads2k
+      - decarr@redhat.com # SIG Architecture, SIG Node. GitHub: @derekwaynecarr
+      - dgrisonn@redhat.com # SIG Instrumentation. GitHub: @dgrisonnet
+      - divya.mohan0209@gmail.com # SIG Docs. GitHub: @divya-mohan0209
+      - eddiezane@gmail.com # SIG CLI. GitHub: @eddiezane
+      - fabrizio.pandini@gmail.com # SIG Cluster Lifecycle. GitHub: @fabriziopandini
+      - fbongiovanni@google.com # SIG API Machinery. GitHub: @fedebongio
+      - guyjtempleton@googlemail.com # SIG Autoscaling. GitHub: @gjtempleton
+      - gveronicalg@gmail.com # SIG Release. GitHub: @Verolop
+      - hankang@google.com # SIG Instrumentation. GitHub: @logicalhan
+      - hilliary.lipsig@gmail.com # CoCC. GitHub: @hlipsig
+      - hweicdl@gmail.com # SIG Scheduling. GitHub: @Huang-Wei
+      - ian@coldwater.io # SIG Security. GitHub: @IanColdwater
+      - jablair@redhat.com # SIG etcd. GitHub: @jmhbnz
+      - jbelamaric@google.com # SIG Architecture, WG Device Management. GitHub: @johnbelamaric
+      - jeremy.r.rickard@gmail.com # SIG Release, WG LTS, CoCC. GitHub: @jeremyrickard
+      - jeremyot@google.com # SIG Multicluster. GitHub: @jeremyot
+      - jim@nirmata.com # WG Policy. GitHub: @JimBugwadia
+      - jpbetz@google.com # SIG API Machinery. GitHub: @jpbetz
+      - jsafrane@redhat.com # SIG Storage. GitHub: @jsafrane
+      - jsturtevant@gmail.com # SIG Windows. GitHub: @jsturtevant
+      - justin@fathomdb.com # SIG Cluster Lifecycle. GitHub: @justinsb
+      - k8s@auggie.dev # SIG Release, Steering. GitHub: @justaugustus
+      - kat.cosgrove@gmail.com # SIG Docs. GitHub: @katcosgrove
+      - killen.bob@gmail.com # Steering. GitHub: @mrbobbytables
+      - lancashiredanielle@gmail.com # CoCC. GitHub: @endocrimes
+      - liggitt@google.com # SIG Auth, WG LTS. GitHub: @liggitt
+      - marosset@microsoft.com # SIG Windows. GitHub: @marosset
+      - maszulik@redhat.com # SIG CLI, SIG Apps, Steering. GitHub: @soltysh
+      - mcqueenorama@gmail.com # SIG Testing. GitHub: @xmcqueen
+      - mikedanese@google.com # SIG Auth. GitHub: @mikedanese
+      - mpuckett259@gmail.com # SIG CLI. GitHub: @mpuckett159
+      - msau@google.com # SIG Storage. GitHub: @msau42
+      - msm@opbstudios.com # SIG Cloud Provider. GitHub: @elmiko
+      - mwielgus@google.com # SIG Autoscaling, WG Batch. GitHub: @mwielgus
+      - natalivlatko@gmail.com # SIG Docs. GitHub: @natalisucks
+      - neolit123@gmail.com # SIG Cluster Lifecycle. GitHub: @neolit123
+      - paco.xu@daocloud.io # Steering. GitHub: @pacoxu
+      - patrick.ohly@intel.com # Steering, SIG Testing, WG Device Management, WG Strutured Logging. GitHub: @pohly
       - ricardo.katz@gmail.com # Sig Network Sub Project Ingress-nginx
-      - rita.z.zhang@gmail.com
-      - rlejano@gmail.com
-      - s.kanzhelev@gmail.com # SIG Node
-      - saadali@google.com
-      - saschagrunert@gmail.com # SIG Release
-      - shane@konghq.com # SIG Network
-      - shu.mutow@gmail.com
-      - siarkowicz@google.com
-      - stefan.schimanski@gmail.com
+      - rita.z.zhang@gmail.com # SIG Auth. GitHub: @ritazh
+      - rlejano@gmail.com # SIG Docs. GitHub: @reylejano
+      - s.kanzhelev@gmail.com # SIG Node, WG Serving. GitHub: @SergeyKanzhelev
+      - saadali@google.com # SIG Storage. GitHub: @saad-ali
+      - saschagrunert@gmail.com # SIG Release. GitHub: @saschagrunert
+      - shane@konghq.com # SIG Network. GitHub: @shaneutt
+      - shu.mutow@gmail.com # SIG UI. GitHub: @shu-mutou
+      - siarkowicz@google.com # SIG etcd. GitHub: @serathius
+      - stefan.schimanski@gmail.com # SIG API Machinery. GitHub: @sttts
       - strong.james.e@gmail.com # Sig Network Sub Project Ingress-nginx
-      - swati.tcd@gmail.com
-      - tabitha.c.sable@gmail.com
-      - theenjeru@gmail.com
-      - thockin@google.com
-      - vince@vincepri.com
-      - wenjiazhang@google.com # SIG etcd
-      - wfender@google.com
-      - wojtekt@google.com
-      - xandergrzyw@gmail.com # CoCC
-      - xingyang105@gmail.com
-      - arangogutierrez@gmail.com  # WG Serving
-      - terrytangyuan@gmail.com  # WG Serving
-      - seedjeffwan@gmail.com  # WG Serving
+      - swati.tcd@gmail.com # WG Batch. GitHub: @swatisehgal
+      - tabitha.c.sable@gmail.com # SIG Security. GitHub: @tabbysable
+      - theenjeru@gmail.com # SIG Auth. GitHub: @enj
+      - thockin@google.com # SIG Network. GitHub: @thockin
+      - vince@vincepri.com # SIG Cluster Lifecycle. GitHub: @vincepri
+      - wenjiazhang@google.com # SIG etcd. GitHub: @wenjiaswe
+      - wfender@google.com # SIG Cloud Provider. GitHub: @cheftako
+      - wojtekt@google.com # SIG Scalability. GitHub: @wojtek-t
+      - xandergrzyw@gmail.com # SIG Docs, CoCC. GitHub: @salaxander
+      - xingyang105@gmail.com # SIG Storage, WG Data Protection. GitHub: @xing-yang
+      - arangogutierrez@gmail.com  # WG Serving. GitHub: @ArangoGutierrez
+      - terrytangyuan@gmail.com  # WG Serving. GitHub: @terrytangyuan
+      - seedjeffwan@gmail.com  # WG Serving. GitHub: @Jeffwan
